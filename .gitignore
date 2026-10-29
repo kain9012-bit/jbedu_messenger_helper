@@ -1,0 +1,15 @@
+# 빌드 결과
+build/
+dist/
+*.exe
+*.zip
+__pycache__/
+*.pyc
+
+# 실행하면 생기는 개인 작업 파일
+쪽지내용.json
+쪽지설정.json
+쪽지발송기록.json
+쪽지서식*.json
+쪽지첨부/
+logs/
